@@ -1,4 +1,9 @@
-TeknoSOF2
-=========
+## Notes:
+* Everything here is released under GPLv3.
+* No further developmend planned
 
-This is all licensed under the GPLv3. No further development is planned. 
+## Known bugs:
+* Does not work online, loader can be made for this to be possible.
+
+## TODO:
+* Make punkbuster proof loader.
